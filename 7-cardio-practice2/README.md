@@ -1,4 +1,4 @@
-# Cardio Practice 2
+# Project 7 of 30 of [JavaScript30](https://javascript30.com/)
 
 This project focus on the fundamentals of javascript, like ```.some()```, ```.every()```, ```.find()``` or ```[...spread]```.
 

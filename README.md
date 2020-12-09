@@ -2,15 +2,15 @@
 
 30 projects in vanilla JS to improve skills in vanilla JS.
 
-01. [Drum Kit]()
-02. [Analogic Clock]()
-03. [Playing with CSS variables and JS]()
-04. [Array cardio day 1]()
-05. [Flex panels image gallery]()
-06. [Ajax type ahead]()
-07. [Array cardio 2]()
-08. [Fun with HTML5 Canvas]()
-09. [14 must know dev tools tricks]()
+01. [Drum Kit](https://mickceb.github.io/javascript30/1-drum-kit/) 👍
+02. [Analogic Clock](https://mickceb.github.io/javascript30/2-analogic-clock) 👍
+03. [Playing with CSS variables and JS](https://mickceb.github.io/javascript30/3-css-variables) 👍
+04. Array cardio day 1 👍
+05. [Flex panels image gallery](https://mickceb.github.io/javascript30/5-image-gallery) 👍
+06. [Ajax type ahead](https://mickceb.github.io/javascript30/6-ajax-type-ahead) 👍
+07. Array cardio 2 👍
+08. [Fun with HTML5 Canvas](https://mickceb.github.io/javascript30/8-html5-canvas) 👍
+09. 14 must know dev tools tricks 👍
 10. [Hold shift to check multiple checkboxes]()
 11. [Custom HTML5 video player]()
 12. [Key sequence detection]()

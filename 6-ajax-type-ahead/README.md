@@ -1,4 +1,4 @@
-# Ajax Type Ahead with fetch()
+# # Project 6 of 30 of [JavaScript30](https://javascript30.com/)
 
 ## What I have learned
 
@@ -18,6 +18,6 @@ function numberWithCommas(x) {
 
 ### The screenshot of the project
 
-![screenshot](https://github.com/mickceb/ajax-type-ahead/blob/main/assets/screenshot.png)
+![screenshot](https://github.com/mickceb/javascript30/blob/main/6-ajax-type-ahead/assets/screenshot.png)
 
-#### [🔍 Click here to try it](https://mickceb.github.io/ajax-type-ahead/)
+#### [🔍 Click here to try it](https://mickceb.github.io/javascript30/6-ajax-type-ahead/)
