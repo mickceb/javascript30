@@ -1,0 +1,65 @@
+html {
+    font-size: 10px;
+    background: url('https://images.unsplash.com/photo-1504653601220-f1a8ece25e4a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJ1bSUyMGtpdHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=700&q=60')
+      bottom center;
+    background-size: cover;
+  }
+  
+  body,
+  html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .title > h1 {
+    color: white;
+    font-size: 5em;
+
+  }
+  
+  .keys {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .key {
+    border: 0.4rem solid white;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem 0.5rem;
+    transition: all 0.09s ease;
+    width: 10rem;
+    text-align: center;
+    color: white;
+    background: rgba(43, 46, 40, 0.7);
+    text-shadow: 0 0 0.5rem black;
+  }
+  
+  .playing {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
+  }
+  
+  kbd {
+    display: block;
+    font-size: 4rem;
+  }
+  
+  .sound {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: #ffc600;
+  }
+  
