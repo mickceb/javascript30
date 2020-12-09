@@ -11,7 +11,7 @@
 07. Array cardio 2 👍
 08. [Fun with HTML5 Canvas](https://mickceb.github.io/javascript30/8-html5-canvas) 👍
 09. 14 must know dev tools tricks 👍
-10. [Hold shift to check multiple checkboxes]()
+10. [Hold shift to check multiple checkboxes](https://mickceb.github.io/javascript30/10-checkboxes-challenge)
 11. [Custom HTML5 video player]()
 12. [Key sequence detection]()
 13. [Slide in on scroll]()
