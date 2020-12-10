@@ -12,8 +12,8 @@
 08. [Fun with HTML5 Canvas](https://mickceb.github.io/javascript30/8-html5-canvas) 👍
 09. 14 must know dev tools tricks 👍
 10. [Hold shift to check multiple checkboxes](https://mickceb.github.io/javascript30/10-checkboxes-challenge) 👍
-11. [Custom HTML5 video player](https://mickceb.github.io/javascript30/11-custom-video-player)
-12. [Key sequence detection]()
+11. [Custom HTML5 video player](https://mickceb.github.io/javascript30/11-custom-video-player) 👍
+12. [Key sequence detection](https://mickceb.github.io/javascript30/12-key-detection) 👍
 13. [Slide in on scroll]()
 14. [Object and arrays - reference vs. copy]()
 15. [Localstorage & event delegation]()
