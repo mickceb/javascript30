@@ -12,3 +12,23 @@ function debounce(func, wait = 20, immediate = true) {
       if (callNow) func.apply(context, args);
     };
   }
+
+  // Select all images
+  const images = document.querySelectorAll('.slide-in')
+
+  // Handle showing
+  function handleImg(e) {
+
+    images.forEach(img => {
+    
+        // Calculate the half of image
+        const slideInAt = (window.scrollY + window.innerHeight) - (img.height / 2)
+        // Where is the trigger
+        const isHalfImg = slideInAt > img.offsetTop
+        // Image appears when scroll go over the half of it
+        if (isHalfImg) img.classList.add('active')
+
+    })
+  }
+
+  window.addEventListener('scroll', debounce(handleImg))
