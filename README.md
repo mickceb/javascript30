@@ -16,7 +16,7 @@
 12. [Key sequence detection](https://mickceb.github.io/javascript30/12-key-detection) 👍
 13. [Slide in on scroll](https://mickceb.github.io/javascript30/13-slide-in-on-scroll) 👍
 14. Object and arrays - reference vs. copy 👍
-15. [Localstorage & event delegation](ttps://mickceb.github.io/javascript30/15-localstorage) 👍
+15. [Localstorage & event delegation](https://mickceb.github.io/javascript30/15-localstorage) 👍
 <!-- 
 16. [CSS text shadow mouse move effect]()
 17. [Sorting band names without articles]()
