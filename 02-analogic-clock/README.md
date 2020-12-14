@@ -6,6 +6,6 @@ In this exercice, I have learned how to change the `transform-origin` and to set
 
 ### The screenshot of the project
 
-![screenshot](https://github.com/mickceb/javascript30/blob/main/2-analogic-clock/assets/screenshot.png)
+![screenshot](https://github.com/mickceb/javascript30/blob/main/02-analogic-clock/assets/screenshot.png)
 
-#### [⏰ Click here to see it](https://mickceb.github.io/javascript30/2-analogic-clock)
+#### [⏰ Click here to see it](https://mickceb.github.io/javascript30/02-analogic-clock)

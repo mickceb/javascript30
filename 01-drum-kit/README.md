@@ -9,8 +9,8 @@ For that, un addEventListener has been binded to ""keydown" and the callback fun
 
 ### The screenshot of the project
 
-![screenshot](https://github.com/mickceb/javascript30/blob/main/1-drum-kit/assets/screenshot.png)
+![screenshot](https://github.com/mickceb/javascript30/blob/main/01-drum-kit/assets/screenshot.png)
 
-#### [🥁 Click here to play with it](https://mickceb.github.io/javascript30/1-drum-kit)
+#### [🥁 Click here to play with it](https://mickceb.github.io/javascript30/01-drum-kit)
 
 _Disclaimer: this project has been designed to be use with desktop pc only 😕_

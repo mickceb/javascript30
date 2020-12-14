@@ -6,6 +6,6 @@ In this project, I saw how to handle with CSS variables with JS so that easily c
 
 ### The screenshot of the project
 
-![screenshot](https://github.com/mickceb/javascript30/blob/main/3-css-variables/assets/screenshot.png)
+![screenshot](https://github.com/mickceb/javascript30/blob/main/03-css-variables/assets/screenshot.png)
 
-#### [🎚 Click here to try it](https://mickceb.github.io/javascript30/3-css-variables)
+#### [🎚 Click here to try it](https://mickceb.github.io/javascript30/03-css-variables)

@@ -18,6 +18,6 @@ function numberWithCommas(x) {
 
 ### The screenshot of the project
 
-![screenshot](https://github.com/mickceb/javascript30/blob/main/6-ajax-type-ahead/assets/screenshot.png)
+![screenshot](https://github.com/mickceb/javascript30/blob/main/06-ajax-type-ahead/assets/screenshot.png)
 
-#### [🔍 Click here to try it](https://mickceb.github.io/javascript30/6-ajax-type-ahead/)
+#### [🔍 Click here to try it](https://mickceb.github.io/javascript30/06-ajax-type-ahead/)
